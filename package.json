@@ -1,0 +1,15 @@
+{
+  "name": "tugas5-uitesting",
+  "version": "1.0.0",
+  "description": "ui testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run",
+    "open": "npx cypress open"
+  },
+  "author": "bily",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.16.0"
+  }
+}
